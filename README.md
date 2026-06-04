@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# 🏥 Health Monitor Web
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+Health Monitor Web is a web-based healthcare management system that enables patients, doctors, and PHC administrators to manage health records efficiently.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+* Secure Login System
+* Patient Dashboard
+* Doctor Dashboard
+* PHC Dashboard
+* Health Record Management
+* User-Friendly Interface
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* React.js
+* JavaScript
+* HTML
+* CSS
+* Node.js
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Clone the Repository
 
-### `npm run build`
+```bash
+git clone https://github.com/your-username/health-monitor-web.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Install Dependencies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Run the Application
 
-### `npm run eject`
+```bash
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Open http://localhost:3000 in your browser.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Screenshots
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Login Page
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Login Page](screenshots/login.jpeg)
 
-## Learn More
+### Doctor Dashboard
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Doctor Dashboard](screenshots/doctor_dashboard.jpeg)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Patient Dashboard
 
-### Code Splitting
+![Patient Dashboard](screenshots/patient_dashboard.jpeg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### PHC Dashboard
 
-### Analyzing the Bundle Size
+![PHC Dashboard](screenshots/phc.jpeg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Future Enhancements
 
-### Making a Progressive Web App
+* Appointment Booking
+* Online Consultation
+* Email Notifications
+* Mobile Application
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Author
 
-### Advanced Configuration
+**Neelima Deepala**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+IoT Student | Full Stack Developer
