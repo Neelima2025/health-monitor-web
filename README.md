@@ -104,13 +104,6 @@ Patient / Doctor / PHC Admin
 * Cloud-Based Healthcare Analytics
 * Wearable Device Integration
 
-## Demo Video
-
-Add your demo video link here:
-
-```text
-https://your-demo-video-link
-```
 
 ## Resume-Worthy Achievements
 
